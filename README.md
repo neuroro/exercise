@@ -1,2 +1,2 @@
-# exercise
+# Exercise
 Resistance exercise code
