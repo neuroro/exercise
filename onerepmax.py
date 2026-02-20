@@ -17,6 +17,23 @@
 # -----------------------------------------------------------------------------
 # Rohan O. C. King (2026)
 # GitHub @neuroro
+#
+# Copyright 2026 Rohan King
+#
+# This program is free software: you can redistribute it and/or modify it
+# under the terms of the GNU General Public License as published by the
+# Free Software Foundation, either version 3 of the License, or (at your
+# option) any later version.
+#
+# This program is distributed in the hope that it will be useful, but
+# WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+# Public License for more details (https://www.gnu.org/licenses/).
+#
+# Please cite this code if you use it
+#
+# King, R.O.C. (2026). One Repetition Maximum & Equivalent Loads [Python code].
+# GitHub. https://github.com/neuroro/exercise/onerepmax.py
 
 
 # -*- coding: utf-8 -*-
